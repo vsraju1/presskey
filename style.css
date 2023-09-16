@@ -21,3 +21,6 @@ table tr td{
     min-height: 20px;
     padding: 2px 4px;
 }
+#key{
+    text-transform: uppercase;
+}
